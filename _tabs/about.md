@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Nexus' Business Central Documentation
-
 Welcome to Nexus' Business Central Documentation for custom extensions made using the AL Language. This documentation is designed to provide comprehensive information and guidance on how to create, manage, and optimize our custom extensions using the AL Language.
 
 Our team of dedicated developers and experts have worked tirelessly to ensure that this documentation is accurate, up-to-date, and easy to understand. We believe that knowledge is power, and we aim to empower our developers and users at large by providing them with the tools and information they need to succeed.
